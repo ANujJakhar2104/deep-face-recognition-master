@@ -85,11 +85,3 @@ The goal of this project is to:
 * Serve as a reference for future experimentation and research
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is for **educational and research purposes only**. Ensure ethical use of face data and follow dataset licensing terms.
-
----
-
-⭐ Feel free to use this repository as a reference while learning deep face recognition.
